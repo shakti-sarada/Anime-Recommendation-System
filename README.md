@@ -29,7 +29,7 @@ Start by downloading the latest anime dataset from Kaggle:
 
 The next step is to preprocess the dataset and generate the recommendation model artifacts:
 
-- Open the Jupyter notebook file `preprocess.ipynb`.
+- Open the Jupyter notebook file `Anime Recommender System.ipynb`.
 - Run all the cells to preprocess the data and create `.pkl` files.
 - Create an `artifacts` folder in your project directory.
 - Save the generated `.pkl` files in the `artifacts` folder.

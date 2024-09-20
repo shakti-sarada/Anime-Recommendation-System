@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A project on anime recommendation system
+Author: Shakti Sarada Prasad
+Author-email: shaktisahoo65@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+# Anime Recommendation System

@@ -2,10 +2,6 @@
 
 Welcome to the **Anime Recommendation System**! This project helps you discover new anime based on your preferences, using a robust recommendation engine and a clean, user-friendly interface built with **Streamlit**.
 
-<p align="center">
-  <img src="https://i.imgur.com/your-anime-image-url.png" width="400" height="200" alt="Anime Image"/>
-</p>
-
 ---
 
 ## ✨ Features
@@ -27,10 +23,6 @@ Start by downloading the latest anime dataset from Kaggle:
 - Create a folder called `data` in the root of your project directory.
 - Move the `.csv` file into the `data` folder.
 
-<p align="center">
-  <img src="https://i.imgur.com/your-dataset-image.png" width="300" height="150" alt="Anime Dataset Example"/>
-</p>
-
 ---
 
 ### 2. Preprocess the Data 🔄
@@ -41,10 +33,6 @@ The next step is to preprocess the dataset and generate the recommendation model
 - Run all the cells to preprocess the data and create `.pkl` files.
 - Create an `artifacts` folder in your project directory.
 - Save the generated `.pkl` files in the `artifacts` folder.
-
-<p align="center">
-  <img src="https://i.imgur.com/your-preprocess-image.png" width="500" height="200" alt="Preprocessing Data"/>
-</p>
 
 ---
 
@@ -75,10 +63,6 @@ streamlit run app.py
 
 3. Once the server starts, open your browser and go to `http://localhost:8501` to view and use the app!
 
-<p align="center">
-  <img src="https://i.imgur.com/your-app-image.png" width="600" height="300" alt="App Screenshot"/>
-</p>
-
 ---
 
 ## 🛠️ Project Structure
@@ -106,18 +90,6 @@ Anime-Recommendation-System/
 - **Python Version**: Ensure you're using Python 3.8+.
 - **Missing Libraries**: Make sure all dependencies are installed via `pip install -r requirements.txt`.
 - **File Structure**: Double-check the paths of `data` and `artifacts` folders to ensure files are in the right place.
-
----
-
-## 🎨 Example Screenshots
-
-Here are some examples of what the Anime Recommendation System looks like:
-
-<p align="center">
-  <img src="https://i.imgur.com/your-screenshot1.png" width="600" height="300" alt="Screenshot 1"/>
-  <br><br>
-  <img src="https://i.imgur.com/your-screenshot2.png" width="600" height="300" alt="Screenshot 2"/>
-</p>
 
 ---
 
